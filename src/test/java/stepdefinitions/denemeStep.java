@@ -10,7 +10,6 @@ public class denemeStep {
     public void kullanici_ilgili_kurulumlari_tamamlayarak_cihazla_baglantisini_gerceklestirir() {
         Driver.getAndroidDriver();
 
-        throw new io.cucumber.java.PendingException();
     }
 }
 
